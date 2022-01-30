@@ -6,4 +6,7 @@
 - the widget is in widget.py
   - to run it's required to `pip install kivy`
   - i tested it on my machine and it worked, there might be some additional libraries that will require installation
-  - to run   `py widget.py` 
+  - to run   `py widget.py`
+    - insert a review in the text bar
+    - click on the blue button below
+    - the result will appear in about a second or so
